@@ -54,5 +54,5 @@ The dataset includes the following columns:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/gokulnhari/Employee-Data-analysis.git
-
+   git clone https://github.com/Gokulnhari/Employee-Data-Analysis.git
+   cd Employee-Data-Analysis
