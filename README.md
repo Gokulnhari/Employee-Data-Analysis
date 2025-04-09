@@ -1,6 +1,5 @@
 # Employee Data Analysis Project
 
-# ABC Company Employee Analysis
 
 ## Project Overview
 
